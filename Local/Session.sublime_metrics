@@ -1,0 +1,33 @@
+{
+	"packages":
+	[
+		"Better CoffeeScript",
+		"Indent XML",
+		"Julia",
+		"MarkdownCodeBlockWrapper",
+		"MarkdownEditing",
+		"Package Control",
+		"SML (Standard ML)",
+		"Better CoffeeScript",
+		"Indent XML",
+		"Julia",
+		"MarkdownCodeBlockWrapper",
+		"MarkdownEditing",
+		"Package Control",
+		"SML (Standard ML)",
+		"Better CoffeeScript",
+		"fish-shell",
+		"Indent XML",
+		"Julia",
+		"MarkdownCodeBlockWrapper",
+		"MarkdownEditing",
+		"Package Control",
+		"SML (Standard ML)"
+	],
+	"syntax":
+	{
+		"Haskell-SublimeHaskell": 1,
+		"fish": 16
+	},
+	"time": 1394428537
+}
