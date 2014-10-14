@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+import unittest
+
+from mock import Mock, patch
+
+class ${1:thing}Test(unittest.TestCase):
+    def test_${2:thing_to_test}(self):
+        pass
+
+if __name__ == '__main__':
+    unittest.main()
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>utest</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.python</scope>
+</snippet>
